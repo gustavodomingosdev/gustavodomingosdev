@@ -8,7 +8,7 @@
 
 📫 How to reach me: gustavorodrigues_123@hotmail.com
 
-😄 Surname: Gusta,Augusto,Gustavo
+😄 Subname: Gusta,Augusto,Gustavo
 
 ⚡ Important fact: i love challenges
 
