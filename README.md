@@ -14,7 +14,7 @@
 
 💻 Accepting freelance on web dev
 
-Competitor on Cyber Security - World Skills 
+Competitor on Cyber Security - World Skills and Fullstack Developer
 
 <div align="center">
   <a href="https://github.com/Gustaviinhoow">
