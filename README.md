@@ -14,7 +14,7 @@
 
 💻 Accepting freelance on web dev
 
-🐱‍💻 Competitor on Cyber Security - World Skills and Fullstack Developer
+![image](https://user-images.githubusercontent.com/43057830/214940775-6d1d1fca-1f99-4c46-b07e-7287491ec7a7.png) Competitor on Cyber Security - World Skills and Fullstack Developer
 
 <div align="center">
   <a href="https://github.com/gustavorodrigiuesdev">
