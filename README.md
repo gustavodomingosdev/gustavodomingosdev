@@ -15,8 +15,9 @@
 💻 Accepting freelance on web dev
 
 🐱‍💻 Competitor on Cyber Security - World Skills and Fullstack Developer
-
+<div align="center">
  <script src="https://tryhackme.com/badge/773514"></script>
+</div>
 <div align="center">
   <a href="https://github.com/gustavorodrigiuesdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorodrigiuesdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
