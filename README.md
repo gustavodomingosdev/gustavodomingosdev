@@ -42,4 +42,3 @@
 <div>
  <img align="right" alt="Gusta-pic" height="150" style="border-radius:50px;" src="https://i.makeagif.com/media/11-10-2015/_4moNo.gif">
 </div>
- 
