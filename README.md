@@ -16,7 +16,7 @@
 
 🐱‍💻 Competitor on Cyber Security - World Skills and Fullstack Developer
 <div align="center">
- <script src="https://tryhackme.com/badge/773514"></script>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Gustaviinhoow.png" alt="TryHackMe">
 </div>
 <div align="center">
   <a href="https://github.com/gustavorodrigiuesdev">
