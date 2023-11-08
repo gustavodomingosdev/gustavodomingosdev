@@ -7,7 +7,7 @@
 
 ### Nice to meet you, i am Gustavo! 👋
 
-🔭 I’m currently working on Arbo Imoveis and WorldSkills Competitor in Cyber Security
+🔭 I’m currently working on Arbo Imoveis.
 
 🌱 I’m currently learning Cyber Security
 
@@ -21,7 +21,7 @@
 
 💻 Accepting freelance on web dev
 
-🐱‍💻 Ex Competitor on Cyber Security - World Skills and Fullstack Developer
+🐱‍💻 Ex Competitor on Cyber Security - Senai World Skills.
  
 <div align="center">
   <a href="https://github.com/gustavorodrigiuesdev">
