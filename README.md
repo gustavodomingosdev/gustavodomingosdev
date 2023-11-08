@@ -24,9 +24,9 @@
 🐱‍💻 Ex Competitor on Cyber Security - Senai World Skills.
  
 <div align="center">
-  <a href="https://github.com/gustavorodrigiuesdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorodrigiuesdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorodrigiuesdev&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/gustavodomingosdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavodomingosdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodomingosdev&layout=compact&langs_count=7&theme=dark"/>
   <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Gustaviinhoow.png" alt="TryHackMe" href="https://tryhackme.com/p/Gustaviinhoow">
  
 </div>
